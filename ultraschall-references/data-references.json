@@ -1,446 +1,373 @@
-[
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/bandbreite_original.png",
-    "title": "Bandbreite",
-    "subtitle": "Podcast zu Design, Technik und Einschl\u00e4gen aus Popkulturen",
-    "url": "http:\/\/bandbreite.fm"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/abcoholics_original.jpg",
-    "title": "ABCoholics",
-    "subtitle": "Der alphabetische Podcast mit Stopuhr",
-    "url": "http:\/\/abcoholics.xyz"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/der-stammtisch_original.png",
-    "title": "Der Stammtisch",
-    "subtitle": "Gespr\u00e4che \u00fcber Politik, Wirtschaft und Technik. Mit Bier und Emp\u00f6rung!",
-    "url": "http:\/\/derstammtisch.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/buechergefahr_logo.png",
-    "title": "B\u00fcchergefahr",
-    "subtitle": "Der Podcast zu Trends, Tipps und Modestr\u00f6mungen rund um das Ver\u00f6ffentlichen von Texten.",
-    "url": "http:\/\/buechergefahr.de\/"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/textlastig_original.png",
-    "title": "Textlastig",
-    "subtitle": "Text-Adventure Podcast",
-    "url": "http:\/\/textlastig.com"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/kf1414.png",
-    "title": "Kleine Freiheiten",
-    "subtitle": "Thekentalk in der Koblenzer Altstadt",
-    "url": "http:\/\/kleine-freiheiten.de\/kf\/show"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/vlogo1400.png",
-    "title": "die Vorleserey",
-    "subtitle": "ein Vorlesepodcast",
-    "url": "http:\/\/vorleserey.de\/vor\/show"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/artwork-1.png",
-    "title": "Speckschau",
-    "subtitle": "Ein Audioblog \u00fcber Filme und andere Dinge zum angucken",
-    "url": "http:\/\/speckschau.herrvonspeck.de\/sps\/show"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/geschichtenkapsel_original.png",
-    "title": "Geschichtenkapsel",
-    "subtitle": "Lass dir was erz\u00e4hlen",
-    "url": "http:\/\/geschichtenkapsel.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/psychotalk_original.jpg",
-    "title": "Psychotalk",
-    "subtitle": "Drei Psychologen auf der Couch",
-    "url": "http:\/\/www.psycho-talk.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/hoeren-seen_original.png",
-    "title": "H\u00f6ren & Seen (MP3 Feed)",
-    "subtitle": "Ein Podcast aus Schwerin",
-    "url": "http:\/\/hoerenundseen.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/viva-britannia_original.png",
-    "title": "Viva Britannia",
-    "subtitle": "Der Insel-Podcast",
-    "url": "http:\/\/www.vivabritannia.de\/pod-eps"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/Podcast_Logo_v62.png",
-    "title": "ZukunftsArchitekten: Systems | Engineering | Leadership",
-    "subtitle": "Maik Pfingsten",
-    "url": "http:\/\/zukunftsarchitekten-podcast.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/system-footprint_original.jpg",
-    "title": "System Footprint",
-    "subtitle": "In f\u00fcnf Schritten ein Lastenheft erstellen",
-    "url": "http:\/\/lastenhefterstellen.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/LE_Cover_v12.jpg",
-    "title": "lifestyle:entrepreneur - Der Podcast f\u00fcr Game-Changer",
-    "subtitle": "Business | Podcast | Leadership",
-    "url": "http:\/\/lifestyleentrepreneur.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/fotophonie_original.png",
-    "title": "fotophonie",
-    "subtitle": "Der Fotopodcast in dem die schonungslose Wahrheit zur Sprache kommt.",
-    "url": "http:\/\/fotophonie.de\/audiocast"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/velohome_original.png",
-    "title": "Velohome",
-    "subtitle": "Der Podcast rund ums Fahrrad, unserem liebsten Sportger\u00e4t und sch\u00f6nstem Hobby.",
-    "url": "http:\/\/velohome.de\/"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/robotiklabor_original.jpg",
-    "title": "Robotiklabor",
-    "subtitle": "Der Podcast rund um Robotikthemen",
-    "url": "http:\/\/www.robotiklabor.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/egovernment-podcast_original.png",
-    "title": "eGovernment Podcast",
-    "subtitle": "Ein Podcast rund um eGovernment Themen.",
-    "url": "http:\/\/egovernment-podcast.de\/"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/geocaching-muensterland_original.png",
-    "title": "Geocaching M\u00fcnsterland",
-    "subtitle": "Der Cachepodcast aus dem M\u00fcnsterland",
-    "url": "http:\/\/www.gcmsland.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/reallife_original.png",
-    "title": "#REALLIFE",
-    "subtitle": "Der Podcast f\u00fcr's Belanglose",
-    "url": "http:\/\/www.gcmsland.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/rss.png",
-    "title": "#REALLIFE",
-    "subtitle": "Der Podcast f\u00fcr's Belanglose",
-    "url": "http:\/\/geschichtendose.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/artwork.png",
-    "title": "Das t\u00e4gliche Wort",
-    "subtitle": "Jeden Tag ein sch\u00f6nes, bemerkenswertes oder seltsames Wort",
-    "url": "http:\/\/famoseworte.de\/dtw\/show"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/avatars-000130270398-nk604c-original.jpg",
-    "title": "Metercast - Podcast",
-    "subtitle": "Herzlich willkommen zum Metercast, dem w\u00f6chentlichen Podcast \u00fcber Technik, das Weltall und das Leben. Mit Martin, Philipp und Jan.Metercast ist uncut.",
-    "url": "http:\/\/www.metercast.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/good-morning-in-the-morning_original.jpg",
-    "title": "Good Morning in the Morning!",
-    "subtitle": "Der Podcast zum Dschungelcamp von @bruhndsoweiter und @gglnx.",
-    "url": "https:\/\/gmitm-podcast.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/wikigeeks_original.jpg",
-    "title": "Wikigeeks",
-    "subtitle": "Gesellschaftliche Netzthemen",
-    "url": "http:\/\/wikigeeks.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/feuer-glut-und-herzblut-der-grillpodcast_original.jpg",
-    "title": "Feuer, Glut und Herzblut - Der Grillpodcast",
-    "subtitle": "Ein Podcast rund um das Grillen und Essen.",
-    "url": "http:\/\/www.feuerglutundherzblut.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/filmgespraeche_original.jpg",
-    "title": "FilmGespr\u00e4che",
-    "subtitle": "Reden \u00fcber Filme",
-    "url": "http:\/\/filmgespraeche.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/wiederauffuehrung_original.jpg",
-    "title": "FilmGespr\u00e4che",
-    "subtitle": "Reden \u00fcber Filme",
-    "url": "http:\/\/filmgespraeche.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/beziehungsweise_original.jpg",
-    "title": "Wiederauff\u00fchrung",
-    "subtitle": "Alte Filme. Neu entdeckt.",
-    "url": "http:\/\/bzw.ansatzweise.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/open-dev-apfellife_original.png",
-    "title": "open-dev \/apfellife",
-    "subtitle": "Our lifes with apple",
-    "url": "http:\/\/open-dev.de\/apfellife"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/open-dev-audio_original.png",
-    "title": "open-dev \/audio",
-    "subtitle": "Our lifes with apple",
-    "url": "http:\/\/open-dev.de\/audio"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/die-reine-lehre_original.png",
-    "title": "die reine Lehre",
-    "subtitle": "Menschen, Technik, Emotionen",
-    "url": "http:\/\/open-dev.de\/audio"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/jagdfunk_original.jpg",
-    "title": "die reine Lehre",
-    "subtitle": "Menschen, Technik, Emotionen",
-    "url": "http:\/\/jagdfunk.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/dwdns_Cover1400x1400-2016.jpg",
-    "title": "Der will doch nur spielen!",
-    "subtitle": "Der will doch nur spielen! - Maximal zehn Minute Spa\u00df!Eine Audio-Persiflage. Manchmal politisch unkorrekt, aber das geh\u00f6rt manchmal einfach dazu. \u00a9 Musik: istockaudio\/clay73\u00a9 Cover: fotolia.com\/gudo",
-    "url": "http:\/\/jagdfunk.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/Cover_Puerto-Patida-Staffel-2.jpg",
-    "title": "Puerto Patida",
-    "subtitle": "Ein Mitspieler strandet und versucht entweder B\u00fcrger zu werden oder von der Insel zu kommen. Das interaktive R\u00e4tselrollenspiel l\u00e4dt H\u00f6rer dazu ein, mitzuraten und mitzuspielen. Dabei taucht man in eine fiktive Welt, bei der es allerhand kurioses zu entdecken gibt.",
-    "url": "http:\/\/www.puertopatida.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/channelcast_original.png",
-    "title": "Channelcast",
-    "subtitle": "Der Podcast \u00fcber die IT-Branche, Systemh\u00e4user und Online-Shops",
-    "url": "http:\/\/www.channelcast.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/die-zeitungsjungen_original.jpeg",
-    "title": "Die Zeitungsjungen",
-    "subtitle": "Ein Podcast \u00fcber jungen Journalismus",
-    "url": "http:\/\/zeitungsjungen.die-kulturpessimisten.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/kulturpessimisten_original.png",
-    "title": "Kulturpessimisten",
-    "subtitle": "Ein Podcast \u00fcber jungen Journalismus",
-    "url": "http:\/\/zeitungsjungen.die-kulturpessimisten.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/countdown_original.jpg",
-    "title": "Kulturpessimisten",
-    "subtitle": "Yet another Laberpodcast",
-    "url": "http:\/\/countdown-podcast.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/fireflycast-ein-gesamtblick-auf-die-tv-serie-firefly_original.png",
-    "title": "Fireflycast - Ein Gesamtblick auf die TV-Serie Firefly (mp3)",
-    "subtitle": "Der Analytische Talk zur TV-Serie Firefly",
-    "url": "http:\/\/compendion.net\/fireflycast"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/DML_Logo_1600-1024x1024.png",
-    "title": "Fireflycast - Ein Gesamtblick auf die TV-Serie Firefly (mp3)",
-    "subtitle": "Der Hamburger Podcast \u00fcber dies und das",
-    "url": "http:\/\/www.dirtyminutesleft.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/styng-talks_original.jpg",
-    "title": "Dirty Minutes Left (DML)",
-    "subtitle": "Der Hamburger Podcast \u00fcber dies und das",
-    "url": "http:\/\/styngtalks.de\/podcast"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/sprechstunde1.png",
-    "title": "Die Sprechstunde",
-    "subtitle": "Der Laberpodcast in Reinform!",
-    "url": "http:\/\/spricht.es\/sprechstunde\/show"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/the-insnider_original.png",
-    "title": "The InSnider",
-    "subtitle": "Der unprofessionelle Fachpodcast f\u00fcr Unterhaltung",
-    "url": "http:\/\/theinsnider.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/nerd-emissionen_original.png",
-    "title": "Nerd Emissionen",
-    "subtitle": "Der w\u00f6chentliche Podcast rund um Tech, Apple und was sonst so war",
-    "url": "http:\/\/nerdemissionen.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/bahncast_original.jpg",
-    "title": "BahnCast",
-    "subtitle": "Themen, Geschichten, Berufe rund um die Bahn | Interviews & Reportagen",
-    "url": "http:\/\/bahncast.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/coding-history_original.png",
-    "title": "Coding History (mp4)",
-    "subtitle": "Ein Podcast zur Geschichte und Gegenwart des Digitalen",
-    "url": "http:\/\/codinghistory.com"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/playtogether_original.png",
-    "title": "PlayTogether",
-    "subtitle": "Ein Podcast \u00fcber Videospiele und Videospielkultur",
-    "url": "http:\/\/codinghistory.com"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/creative-comments-logo-final-1400.png",
-    "title": "PlayTogether",
-    "subtitle": "Ein Podcast \u00fcber Videospiele und Videospielkultur",
-    "url": "https:\/\/podcast.c3s.cc"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/sprechgroestl_original.png",
-    "title": "Sprechgr\u00f6stl",
-    "subtitle": "Der C3S-Podcast",
-    "url": "http:\/\/sprechgroestl.at"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/gabelbissen_original.jpg",
-    "title": "Gabelbissen",
-    "subtitle": "so kocht \u00d6sterreich",
-    "url": "http:\/\/gabelbissen.at"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/xtalkcast-2.jpg",
-    "title": "XTalkCast",
-    "subtitle": "...die Szene spricht",
-    "url": "http:\/\/www.x-t-c.at"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/erfolgsfans-der-fc-bayern-podcast_original.png",
-    "title": "Erfolgsfans - Der FC Bayern Podcast",
-    "subtitle": "Von Fans f\u00fcr Fans. Alles zum FC Bayern M\u00fcnchen.",
-    "url": "http:\/\/www.x-t-c.at"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/open-science-radio_original.png",
-    "title": "Erfolgsfans - Der FC Bayern Podcast",
-    "subtitle": "Von Fans f\u00fcr Fans. Alles zum FC Bayern M\u00fcnchen.",
-    "url": "http:\/\/www.openscienceradio.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/phonolog_original.jpg",
-    "title": "Phonolog",
-    "subtitle": "Der Podcast aus dem Maschinenraum der Klangverarbeitung",
-    "url": "http:\/\/phonolog.fm"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/konscience_original.png",
-    "title": "KonScience",
-    "subtitle": "Wissenschaftspodcast aus Konstanz",
-    "url": "http:\/\/phonolog.fm"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/funkenstrahlen_original.png",
-    "title": "KonScience",
-    "subtitle": "Technik, Internet, Gesellschaft.",
-    "url": "http:\/\/podcast.funkenstrahlen.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/eintracht-frankfurt-podcast_original.png",
-    "title": "Eintracht Frankfurt Podcast",
-    "subtitle": "Adler gebabbel von Fans, f\u00fcr Fans!",
-    "url": "http:\/\/www.eintracht-podcast.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/avatars-000037608425-2iazkn-original.png",
-    "title": "zwanzichfuffzehn",
-    "subtitle": "Ein Podcast \u00fcber Serien und ihre Folgen.",
-    "url": "http:\/\/soundcloud.com\/zwanzichfuffzehn"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/lauschpod_original.jpg",
-    "title": "Lauschpod",
-    "subtitle": "Gesellschaft, Politik, Kultur im Gespr\u00e4ch",
-    "url": "http:\/\/lauschpod.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/expertengespraeche.jpg",
-    "title": "Expertengespr\u00e4che",
-    "subtitle": "Mit den Tr\u00e4umen einer 15-j\u00e4hrigen Ballett Sch\u00fclerin und der Lebenserfahrung eines 21-j\u00e4hrigen Bernhardiner R\u00fcden ausgestattet, geben wir Hilfestellung und Ratschl\u00e4ge in allen Lebenslagen. Falls daf\u00fcr gerade keine Zeit ist, reden wir einfach \u00fcber Dinge, die uns wichtig erscheinen.",
-    "url": "http:\/\/expertengespraeche.ru"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/staatsbuergerkunde_original.jpg",
-    "title": "Expertengespr\u00e4che",
-    "subtitle": "Mit den Tr\u00e4umen einer 15-j\u00e4hrigen Ballett Sch\u00fclerin und der Lebenserfahrung eines 21-j\u00e4hrigen Bernhardiner R\u00fcden ausgestattet, geben wir Hilfestellung und Ratschl\u00e4ge in allen Lebenslagen. Falls daf\u00fcr gerade keine Zeit ist, reden wir einfach \u00fcber Dinge, die uns wichtig erscheinen.",
-    "url": "http:\/\/www.staatsbuergerkunde-podcast.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/anyca-st_original.jpg",
-    "title": "anyca.st",
-    "subtitle": "Fachpodcast f\u00fcr Heimat, Recht, Bahn und Moral",
-    "url": "http:\/\/anyca.st"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/methodisch-inkorrekt_original.jpg",
-    "title": "anyca.st",
-    "subtitle": "Fachpodcast f\u00fcr Heimat, Recht, Bahn und Moral",
-    "url": "http:\/\/anyca.st"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/der-lautsprecher_original.jpg",
-    "title": "Methodisch inkorrekt",
-    "subtitle": "der methodisch inkorrekte Wissenschaftspodcast",
-    "url": "http:\/\/minkorrekt.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/newz-of-the-world_original.jpg",
-    "title": "Der Lautsprecher",
-    "subtitle": "Ein Podcast \u00fcber das Senden und Empfangen werden",
-    "url": "http:\/\/newz-of-the-world.com"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/die-sondersendung_original.png",
-    "title": "Die Sondersendung",
-    "subtitle": "Das Veranstaltungsmagazin aus dem Sendezentrum",
-    "url": "http:\/\/das-sendezentrum.de\/sondersendung"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/forschergeist_original.jpg",
-    "title": "Die Sondersendung",
-    "subtitle": "Horizonte f\u00fcr Bildung und Forschung",
-    "url": "http:\/\/forschergeist.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/fokus-europa_original.jpg",
-    "title": "Fokus Europa",
-    "subtitle": "Gespr\u00e4che \u00fcber die europ\u00e4ische Idee",
-    "url": "http:\/\/fokus-europa.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/not-safe-for-work_original.jpg",
-    "title": "Not Safe For Work",
-    "subtitle": "Gespr\u00e4che \u00fcber die europ\u00e4ische Idee",
-    "url": "http:\/\/fokus-europa.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/logbuchnetzpolitik_original.jpg",
-    "title": "Not Safe For Work",
-    "subtitle": "Die Internationale Unterhaltungsgala mit Tim Pritlove und Holger Klein",
-    "url": "http:\/\/not-safe-for-work.de"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/freak-show_original.jpg",
-    "title": "Logbuch:Netzpolitik",
-    "subtitle": "Einblicke und Ausblicke in das netzpolitische Geschehen",
-    "url": "http:\/\/freakshow.fm"
-  },
-  {
-    "cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/cre-technik-kultur-gesellschaft_original.jpg",
-    "title": "Freak Show",
-    "subtitle": "Menschen! Technik! Sensationen!",
-    "url": "http:\/\/freakshow.fm"
-  }
-]
+{
+	"us-references": [{
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/bandbreite_original.png",
+		"title": "Bandbreite",
+		"subtitle": "Podcast zu Design, Technik und Einschl\u00e4gen aus Popkulturen",
+		"url": "http:\/\/bandbreite.fm"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/abcoholics_original.jpg",
+		"title": "ABCoholics",
+		"subtitle": "Der alphabetische Podcast mit Stopuhr",
+		"url": "http:\/\/abcoholics.xyz"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/der-stammtisch_original.png",
+		"title": "Der Stammtisch",
+		"subtitle": "Gespr\u00e4che \u00fcber Politik, Wirtschaft und Technik. Mit Bier und Emp\u00f6rung!",
+		"url": "http:\/\/derstammtisch.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/buechergefahr_logo.png",
+		"title": "B\u00fcchergefahr",
+		"subtitle": "Der Podcast zu Trends, Tipps und Modestr\u00f6mungen rund um das Ver\u00f6ffentlichen von Texten.",
+		"url": "http:\/\/buechergefahr.de\/"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/textlastig_original.png",
+		"title": "Textlastig",
+		"subtitle": "Text-Adventure Podcast",
+		"url": "http:\/\/textlastig.com"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/kf1414.png",
+		"title": "Kleine Freiheiten",
+		"subtitle": "Thekentalk in der Koblenzer Altstadt",
+		"url": "http:\/\/kleine-freiheiten.de\/kf\/show"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/vlogo1400.png",
+		"title": "die Vorleserey",
+		"subtitle": "ein Vorlesepodcast",
+		"url": "http:\/\/vorleserey.de\/vor\/show"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/artwork-1.png",
+		"title": "Speckschau",
+		"subtitle": "Ein Audioblog \u00fcber Filme und andere Dinge zum angucken",
+		"url": "http:\/\/speckschau.herrvonspeck.de\/sps\/show"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/geschichtenkapsel_original.png",
+		"title": "Geschichtenkapsel",
+		"subtitle": "Lass dir was erz\u00e4hlen",
+		"url": "http:\/\/geschichtenkapsel.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/psychotalk_original.jpg",
+		"title": "Psychotalk",
+		"subtitle": "Drei Psychologen auf der Couch",
+		"url": "http:\/\/www.psycho-talk.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/hoeren-seen_original.png",
+		"title": "H\u00f6ren & Seen (MP3 Feed)",
+		"subtitle": "Ein Podcast aus Schwerin",
+		"url": "http:\/\/hoerenundseen.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/viva-britannia_original.png",
+		"title": "Viva Britannia",
+		"subtitle": "Der Insel-Podcast",
+		"url": "http:\/\/www.vivabritannia.de\/pod-eps"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/Podcast_Logo_v62.png",
+		"title": "ZukunftsArchitekten: Systems | Engineering | Leadership",
+		"subtitle": "Maik Pfingsten",
+		"url": "http:\/\/zukunftsarchitekten-podcast.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/system-footprint_original.jpg",
+		"title": "System Footprint",
+		"subtitle": "In f\u00fcnf Schritten ein Lastenheft erstellen",
+		"url": "http:\/\/lastenhefterstellen.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/LE_Cover_v12.jpg",
+		"title": "lifestyle:entrepreneur - Der Podcast f\u00fcr Game-Changer",
+		"subtitle": "Business | Podcast | Leadership",
+		"url": "http:\/\/lifestyleentrepreneur.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/fotophonie_original.png",
+		"title": "fotophonie",
+		"subtitle": "Der Fotopodcast in dem die schonungslose Wahrheit zur Sprache kommt.",
+		"url": "http:\/\/fotophonie.de\/audiocast"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/velohome_original.png",
+		"title": "Velohome",
+		"subtitle": "Der Podcast rund ums Fahrrad, unserem liebsten Sportger\u00e4t und sch\u00f6nstem Hobby.",
+		"url": "http:\/\/velohome.de\/"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/robotiklabor_original.jpg",
+		"title": "Robotiklabor",
+		"subtitle": "Der Podcast rund um Robotikthemen",
+		"url": "http:\/\/www.robotiklabor.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/egovernment-podcast_original.png",
+		"title": "eGovernment Podcast",
+		"subtitle": "Ein Podcast rund um eGovernment Themen.",
+		"url": "http:\/\/egovernment-podcast.de\/"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/geocaching-muensterland_original.png",
+		"title": "Geocaching M\u00fcnsterland",
+		"subtitle": "Der Cachepodcast aus dem M\u00fcnsterland",
+		"url": "http:\/\/www.gcmsland.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/reallife_original.png",
+		"title": "#REALLIFE",
+		"subtitle": "Der Podcast f\u00fcr's Belanglose",
+		"url": "http:\/\/www.gcmsland.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/rss.png",
+		"title": "#REALLIFE",
+		"subtitle": "Der Podcast f\u00fcr's Belanglose",
+		"url": "http:\/\/geschichtendose.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/artwork.png",
+		"title": "Das t\u00e4gliche Wort",
+		"subtitle": "Jeden Tag ein sch\u00f6nes, bemerkenswertes oder seltsames Wort",
+		"url": "http:\/\/famoseworte.de\/dtw\/show"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/avatars-000130270398-nk604c-original.jpg",
+		"title": "Metercast - Podcast",
+		"subtitle": "Herzlich willkommen zum Metercast, dem w\u00f6chentlichen Podcast \u00fcber Technik, das Weltall und das Leben. Mit Martin, Philipp und Jan.Metercast ist uncut.",
+		"url": "http:\/\/www.metercast.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/good-morning-in-the-morning_original.jpg",
+		"title": "Good Morning in the Morning!",
+		"subtitle": "Der Podcast zum Dschungelcamp von @bruhndsoweiter und @gglnx.",
+		"url": "https:\/\/gmitm-podcast.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/wikigeeks_original.jpg",
+		"title": "Wikigeeks",
+		"subtitle": "Gesellschaftliche Netzthemen",
+		"url": "http:\/\/wikigeeks.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/feuer-glut-und-herzblut-der-grillpodcast_original.jpg",
+		"title": "Feuer, Glut und Herzblut - Der Grillpodcast",
+		"subtitle": "Ein Podcast rund um das Grillen und Essen.",
+		"url": "http:\/\/www.feuerglutundherzblut.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/filmgespraeche_original.jpg",
+		"title": "FilmGespr\u00e4che",
+		"subtitle": "Reden \u00fcber Filme",
+		"url": "http:\/\/filmgespraeche.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/wiederauffuehrung_original.jpg",
+		"title": "FilmGespr\u00e4che",
+		"subtitle": "Reden \u00fcber Filme",
+		"url": "http:\/\/filmgespraeche.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/beziehungsweise_original.jpg",
+		"title": "Wiederauff\u00fchrung",
+		"subtitle": "Alte Filme. Neu entdeckt.",
+		"url": "http:\/\/bzw.ansatzweise.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/open-dev-apfellife_original.png",
+		"title": "open-dev \/apfellife",
+		"subtitle": "Our lifes with apple",
+		"url": "http:\/\/open-dev.de\/apfellife"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/open-dev-audio_original.png",
+		"title": "open-dev \/audio",
+		"subtitle": "Our lifes with apple",
+		"url": "http:\/\/open-dev.de\/audio"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/die-reine-lehre_original.png",
+		"title": "die reine Lehre",
+		"subtitle": "Menschen, Technik, Emotionen",
+		"url": "http:\/\/open-dev.de\/audio"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/jagdfunk_original.jpg",
+		"title": "die reine Lehre",
+		"subtitle": "Menschen, Technik, Emotionen",
+		"url": "http:\/\/jagdfunk.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/dwdns_Cover1400x1400-2016.jpg",
+		"title": "Der will doch nur spielen!",
+		"subtitle": "Der will doch nur spielen! - Maximal zehn Minute Spa\u00df!Eine Audio-Persiflage. Manchmal politisch unkorrekt, aber das geh\u00f6rt manchmal einfach dazu. \u00a9 Musik: istockaudio\/clay73\u00a9 Cover: fotolia.com\/gudo",
+		"url": "http:\/\/jagdfunk.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/Cover_Puerto-Patida-Staffel-2.jpg",
+		"title": "Puerto Patida",
+		"subtitle": "Ein Mitspieler strandet und versucht entweder B\u00fcrger zu werden oder von der Insel zu kommen. Das interaktive R\u00e4tselrollenspiel l\u00e4dt H\u00f6rer dazu ein, mitzuraten und mitzuspielen. Dabei taucht man in eine fiktive Welt, bei der es allerhand kurioses zu entdecken gibt.",
+		"url": "http:\/\/www.puertopatida.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/channelcast_original.png",
+		"title": "Channelcast",
+		"subtitle": "Der Podcast \u00fcber die IT-Branche, Systemh\u00e4user und Online-Shops",
+		"url": "http:\/\/www.channelcast.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/die-zeitungsjungen_original.jpeg",
+		"title": "Die Zeitungsjungen",
+		"subtitle": "Ein Podcast \u00fcber jungen Journalismus",
+		"url": "http:\/\/zeitungsjungen.die-kulturpessimisten.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/kulturpessimisten_original.png",
+		"title": "Kulturpessimisten",
+		"subtitle": "Ein Podcast \u00fcber jungen Journalismus",
+		"url": "http:\/\/zeitungsjungen.die-kulturpessimisten.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/countdown_original.jpg",
+		"title": "Kulturpessimisten",
+		"subtitle": "Yet another Laberpodcast",
+		"url": "http:\/\/countdown-podcast.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/fireflycast-ein-gesamtblick-auf-die-tv-serie-firefly_original.png",
+		"title": "Fireflycast - Ein Gesamtblick auf die TV-Serie Firefly (mp3)",
+		"subtitle": "Der Analytische Talk zur TV-Serie Firefly",
+		"url": "http:\/\/compendion.net\/fireflycast"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/DML_Logo_1600-1024x1024.png",
+		"title": "Fireflycast - Ein Gesamtblick auf die TV-Serie Firefly (mp3)",
+		"subtitle": "Der Hamburger Podcast \u00fcber dies und das",
+		"url": "http:\/\/www.dirtyminutesleft.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/styng-talks_original.jpg",
+		"title": "Dirty Minutes Left (DML)",
+		"subtitle": "Der Hamburger Podcast \u00fcber dies und das",
+		"url": "http:\/\/styngtalks.de\/podcast"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/sprechstunde1.png",
+		"title": "Die Sprechstunde",
+		"subtitle": "Der Laberpodcast in Reinform!",
+		"url": "http:\/\/spricht.es\/sprechstunde\/show"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/the-insnider_original.png",
+		"title": "The InSnider",
+		"subtitle": "Der unprofessionelle Fachpodcast f\u00fcr Unterhaltung",
+		"url": "http:\/\/theinsnider.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/nerd-emissionen_original.png",
+		"title": "Nerd Emissionen",
+		"subtitle": "Der w\u00f6chentliche Podcast rund um Tech, Apple und was sonst so war",
+		"url": "http:\/\/nerdemissionen.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/bahncast_original.jpg",
+		"title": "BahnCast",
+		"subtitle": "Themen, Geschichten, Berufe rund um die Bahn | Interviews & Reportagen",
+		"url": "http:\/\/bahncast.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/coding-history_original.png",
+		"title": "Coding History (mp4)",
+		"subtitle": "Ein Podcast zur Geschichte und Gegenwart des Digitalen",
+		"url": "http:\/\/codinghistory.com"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/playtogether_original.png",
+		"title": "PlayTogether",
+		"subtitle": "Ein Podcast \u00fcber Videospiele und Videospielkultur",
+		"url": "http:\/\/codinghistory.com"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/creative-comments-logo-final-1400.png",
+		"title": "PlayTogether",
+		"subtitle": "Ein Podcast \u00fcber Videospiele und Videospielkultur",
+		"url": "https:\/\/podcast.c3s.cc"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/sprechgroestl_original.png",
+		"title": "Sprechgr\u00f6stl",
+		"subtitle": "Der C3S-Podcast",
+		"url": "http:\/\/sprechgroestl.at"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/gabelbissen_original.jpg",
+		"title": "Gabelbissen",
+		"subtitle": "so kocht \u00d6sterreich",
+		"url": "http:\/\/gabelbissen.at"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/xtalkcast-2.jpg",
+		"title": "XTalkCast",
+		"subtitle": "...die Szene spricht",
+		"url": "http:\/\/www.x-t-c.at"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/erfolgsfans-der-fc-bayern-podcast_original.png",
+		"title": "Erfolgsfans - Der FC Bayern Podcast",
+		"subtitle": "Von Fans f\u00fcr Fans. Alles zum FC Bayern M\u00fcnchen.",
+		"url": "http:\/\/www.x-t-c.at"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/open-science-radio_original.png",
+		"title": "Erfolgsfans - Der FC Bayern Podcast",
+		"subtitle": "Von Fans f\u00fcr Fans. Alles zum FC Bayern M\u00fcnchen.",
+		"url": "http:\/\/www.openscienceradio.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/phonolog_original.jpg",
+		"title": "Phonolog",
+		"subtitle": "Der Podcast aus dem Maschinenraum der Klangverarbeitung",
+		"url": "http:\/\/phonolog.fm"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/konscience_original.png",
+		"title": "KonScience",
+		"subtitle": "Wissenschaftspodcast aus Konstanz",
+		"url": "http:\/\/phonolog.fm"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/funkenstrahlen_original.png",
+		"title": "KonScience",
+		"subtitle": "Technik, Internet, Gesellschaft.",
+		"url": "http:\/\/podcast.funkenstrahlen.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/eintracht-frankfurt-podcast_original.png",
+		"title": "Eintracht Frankfurt Podcast",
+		"subtitle": "Adler gebabbel von Fans, f\u00fcr Fans!",
+		"url": "http:\/\/www.eintracht-podcast.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/avatars-000037608425-2iazkn-original.png",
+		"title": "zwanzichfuffzehn",
+		"subtitle": "Ein Podcast \u00fcber Serien und ihre Folgen.",
+		"url": "http:\/\/soundcloud.com\/zwanzichfuffzehn"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/lauschpod_original.jpg",
+		"title": "Lauschpod",
+		"subtitle": "Gesellschaft, Politik, Kultur im Gespr\u00e4ch",
+		"url": "http:\/\/lauschpod.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/expertengespraeche.jpg",
+		"title": "Expertengespr\u00e4che",
+		"subtitle": "Mit den Tr\u00e4umen einer 15-j\u00e4hrigen Ballett Sch\u00fclerin und der Lebenserfahrung eines 21-j\u00e4hrigen Bernhardiner R\u00fcden ausgestattet, geben wir Hilfestellung und Ratschl\u00e4ge in allen Lebenslagen. Falls daf\u00fcr gerade keine Zeit ist, reden wir einfach \u00fcber Dinge, die uns wichtig erscheinen.",
+		"url": "http:\/\/expertengespraeche.ru"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/staatsbuergerkunde_original.jpg",
+		"title": "Expertengespr\u00e4che",
+		"subtitle": "Mit den Tr\u00e4umen einer 15-j\u00e4hrigen Ballett Sch\u00fclerin und der Lebenserfahrung eines 21-j\u00e4hrigen Bernhardiner R\u00fcden ausgestattet, geben wir Hilfestellung und Ratschl\u00e4ge in allen Lebenslagen. Falls daf\u00fcr gerade keine Zeit ist, reden wir einfach \u00fcber Dinge, die uns wichtig erscheinen.",
+		"url": "http:\/\/www.staatsbuergerkunde-podcast.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/anyca-st_original.jpg",
+		"title": "anyca.st",
+		"subtitle": "Fachpodcast f\u00fcr Heimat, Recht, Bahn und Moral",
+		"url": "http:\/\/anyca.st"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/methodisch-inkorrekt_original.jpg",
+		"title": "anyca.st",
+		"subtitle": "Fachpodcast f\u00fcr Heimat, Recht, Bahn und Moral",
+		"url": "http:\/\/anyca.st"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/der-lautsprecher_original.jpg",
+		"title": "Methodisch inkorrekt",
+		"subtitle": "der methodisch inkorrekte Wissenschaftspodcast",
+		"url": "http:\/\/minkorrekt.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/newz-of-the-world_original.jpg",
+		"title": "Der Lautsprecher",
+		"subtitle": "Ein Podcast \u00fcber das Senden und Empfangen werden",
+		"url": "http:\/\/newz-of-the-world.com"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/die-sondersendung_original.png",
+		"title": "Die Sondersendung",
+		"subtitle": "Das Veranstaltungsmagazin aus dem Sendezentrum",
+		"url": "http:\/\/das-sendezentrum.de\/sondersendung"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/forschergeist_original.jpg",
+		"title": "Die Sondersendung",
+		"subtitle": "Horizonte f\u00fcr Bildung und Forschung",
+		"url": "http:\/\/forschergeist.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/fokus-europa_original.jpg",
+		"title": "Fokus Europa",
+		"subtitle": "Gespr\u00e4che \u00fcber die europ\u00e4ische Idee",
+		"url": "http:\/\/fokus-europa.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/not-safe-for-work_original.jpg",
+		"title": "Not Safe For Work",
+		"subtitle": "Gespr\u00e4che \u00fcber die europ\u00e4ische Idee",
+		"url": "http:\/\/fokus-europa.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/logbuchnetzpolitik_original.jpg",
+		"title": "Not Safe For Work",
+		"subtitle": "Die Internationale Unterhaltungsgala mit Tim Pritlove und Holger Klein",
+		"url": "http:\/\/not-safe-for-work.de"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/freak-show_original.jpg",
+		"title": "Logbuch:Netzpolitik",
+		"subtitle": "Einblicke und Ausblicke in das netzpolitische Geschehen",
+		"url": "http:\/\/freakshow.fm"
+	}, {
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/cre-technik-kultur-gesellschaft_original.jpg",
+		"title": "Freak Show",
+		"subtitle": "Menschen! Technik! Sensationen!",
+		"url": "http:\/\/freakshow.fm"
+	}]
+}
