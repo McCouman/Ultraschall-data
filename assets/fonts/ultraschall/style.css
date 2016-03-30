@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'ultraschall';
+    src:    url('fonts/ultraschall.eot?44s5lh');
+    src:    url('fonts/ultraschall.eot?44s5lh#iefix') format('embedded-opentype'),
+        url('fonts/ultraschall.ttf?44s5lh') format('truetype'),
+        url('fonts/ultraschall.woff?44s5lh') format('woff'),
+        url('fonts/ultraschall.svg?44s5lh#ultraschall') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="us-"], [class*=" us-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'ultraschall' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.us-ultraschall:before {
+    content: "\e900";
+}
+.us-ultraschall-full:before {
+    content: "\e901";
+}
+
