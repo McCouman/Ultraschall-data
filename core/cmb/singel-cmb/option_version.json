@@ -1,0 +1,246 @@
+[
+    {
+        "key": "group_56ad1dd0d318z",
+        "title": "Version: [Spezial]",
+        "fields": [
+            {
+                "key": "field_56ad1dd0df221",
+                "label": "Box Inhalte",
+                "name": "",
+                "type": "tab",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "placement": "top",
+                "endpoint": 0
+            },
+            {
+                "key": "field_56ad1dd0df245",
+                "label": "Features f\u00fcr die Startseite",
+                "name": "home_featurebox_outputs",
+                "type": "repeater",
+                "instructions": "",
+                "required": 1,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "collapsed": "",
+                "min": "",
+                "max": "",
+                "layout": "table",
+                "button_label": "+ Feature",
+                "sub_fields": [
+                    {
+                        "key": "field_56ad1dd0e271b",
+                        "label": "Box Ausw\u00e4hlen",
+                        "name": "home_feature_input",
+                        "type": "post_object",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "post_type": [
+                            "ultraschall_features"
+                        ],
+                        "taxonomy": [
+
+                        ],
+                        "allow_null": 0,
+                        "multiple": 0,
+                        "return_format": "id",
+                        "ui": 1
+                    }
+                ]
+            },
+            {
+                "key": "field_56929a33d10ed",
+                "label": "Box Inhalte",
+                "name": "",
+                "type": "tab",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "placement": "top",
+                "endpoint": 0
+            },
+            {
+                "key": "field_56a11c94ec1eb",
+                "label": "Features f\u00fcr die Homeseite",
+                "name": "version_featurebox_outputs",
+                "type": "repeater",
+                "instructions": "",
+                "required": 1,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "collapsed": "",
+                "min": "",
+                "max": "",
+                "layout": "table",
+                "button_label": "+ Feature",
+                "sub_fields": [
+                    {
+                        "key": "field_56a11caaec1ec",
+                        "label": "Box Ausw\u00e4hlen",
+                        "name": "version_feature_input",
+                        "type": "post_object",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "post_type": [
+                            "ultraschall_features"
+                        ],
+                        "taxonomy": [
+
+                        ],
+                        "allow_null": 0,
+                        "multiple": 0,
+                        "return_format": "id",
+                        "ui": 1
+                    }
+                ]
+            },
+            {
+                "key": "field_56ad11c1b07ee",
+                "label": "Box Inhalte",
+                "name": "",
+                "type": "tab",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "placement": "top",
+                "endpoint": 0
+            },
+            {
+                "key": "field_56ad11c1b0805",
+                "label": "Features f\u00fcr die Featurepage",
+                "name": "version_features_outputs",
+                "type": "repeater",
+                "instructions": "",
+                "required": 1,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "collapsed": "",
+                "min": "",
+                "max": "",
+                "layout": "table",
+                "button_label": "+ Feature",
+                "sub_fields": [
+                    {
+                        "key": "field_56ad11c1b3ce6",
+                        "label": "Box Ausw\u00e4hlen",
+                        "name": "version_features_input",
+                        "type": "post_object",
+                        "instructions": "",
+                        "required": 0,
+                        "conditional_logic": 0,
+                        "wrapper": {
+                            "width": "",
+                            "class": "",
+                            "id": ""
+                        },
+                        "post_type": [
+                            "ultraschall_features"
+                        ],
+                        "taxonomy": [
+
+                        ],
+                        "allow_null": 0,
+                        "multiple": 0,
+                        "return_format": "id",
+                        "ui": 1
+                    }
+                ]
+            },
+            {
+                "key": "field_56ad1dd0df286",
+                "label": "Hilfe",
+                "name": "",
+                "type": "tab",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "placement": "top",
+                "endpoint": 0
+            },
+            {
+                "key": "field_56ad1dd0df2c5",
+                "label": "Infos zur Homebox",
+                "name": "infos_zur_homebox",
+                "type": "message",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "message": "\u00dcber den Tab: \"Einstellungen\" kann festlegen, welchen Content Type f\u00fcr die Seite gilt. Der Type <b>Box Inhalt<\/b> ist der Ultraschall Standard. <br>\r\n\r\n<br>\r\nDamit lassen sich Box erstellen in den Inhalte ausgeliefert werden. \u00dcber ein Template lassen sich so viele Funktionen einstellen und \u00fcber ein Grid System verwenden.<br>\r\n\r\n<br>\r\nAlle Templates sind mit einem deutschen und englischen Editor versehen, so das kein Inhalt zu einem Text vergessen werden.",
+                "new_lines": "wpautop",
+                "esc_html": 0
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "ultraschall_versions"
+                }
+            ]
+        ],
+        "menu_order": 1,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": [
+            "the_content",
+            "custom_fields",
+            "format",
+            "featured_image"
+        ],
+        "active": 1,
+        "description": "Page: Box f\u00fcr Seiten"
+    }
+]

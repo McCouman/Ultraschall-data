@@ -1,0 +1,164 @@
+[
+    {
+        "key": "group_56d1f864af6dd",
+        "title": "Ultraschall: Update Markdown",
+        "fields": [
+            {
+                "key": "field_56d22a27bdba0",
+                "label": "",
+                "name": "update_github_files",
+                "type": "select",
+                "instructions": "<div id=\"update-file-info\">Zum Updaten kann das Auswahlmen\u00fc genutzt werden. Um alle Markdown-Files zu updaten kann \"-- Alle aktualisieren --\" ausgew\u00e4hlt werden. Mit klick auf \"Optionen speichern\"  wird die Aktualisierung vorgenommen.<\/div>",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "choices": {
+                    "download": "Install aktualisieren",
+                    "changelog": "Changelog aktualisieren",
+                    "all": "-- Alle aktualisieren --"
+                },
+                "default_value": [
+
+                ],
+                "allow_null": 1,
+                "multiple": 0,
+                "ui": 0,
+                "ajax": 1,
+                "placeholder": "",
+                "disabled": 0,
+                "readonly": 0
+            },
+            {
+                "key": "field_56d229f1fa17d",
+                "label": "Install \/ Download",
+                "name": "install__download",
+                "type": "tab",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "placement": "top",
+                "endpoint": 0
+            },
+            {
+                "key": "field_56d215318310f",
+                "label": "INSTALL.md",
+                "name": "down_eng",
+                "type": "wysiwyg",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": 50,
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "tabs": "visual",
+                "toolbar": "basic",
+                "media_upload": 0
+            },
+            {
+                "key": "field_56d2151b8310e",
+                "label": "INSTALL-DE.md",
+                "name": "down_de",
+                "type": "wysiwyg",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": 50,
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "tabs": "visual",
+                "toolbar": "basic",
+                "media_upload": 0
+            },
+            {
+                "key": "field_56d229dcfa17c",
+                "label": "Changelog",
+                "name": "changelog",
+                "type": "tab",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "placement": "top",
+                "endpoint": 0
+            },
+            {
+                "key": "field_56d1f88558cff",
+                "label": "CHANGELOG.md",
+                "name": "change_eng",
+                "type": "textarea",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": 50,
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "maxlength": "",
+                "rows": "",
+                "new_lines": "",
+                "readonly": 0,
+                "disabled": 0
+            },
+            {
+                "key": "field_56d1f86f58cfe",
+                "label": "CHANGELOG-DE.md",
+                "name": "change_de",
+                "type": "textarea",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": 50,
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "maxlength": "",
+                "rows": "",
+                "new_lines": "",
+                "readonly": 0,
+                "disabled": 0
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "options_page",
+                    "operator": "==",
+                    "value": "acf-options-update-md"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "seamless",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": 1,
+        "description": ""
+    }
+]
