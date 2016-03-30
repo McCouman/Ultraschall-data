@@ -95,7 +95,7 @@
 		"subtitle": "Ein Podcast rund um eGovernment Themen.",
 		"url": "http:\/\/egovernment-podcast.de\/"
 	}, {
-		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/geocaching-muensterland_original.png",
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/geocaching-muensterland.png",
 		"title": "Geocaching M\u00fcnsterland",
 		"subtitle": "Der Cachepodcast aus dem M\u00fcnsterland",
 		"url": "http:\/\/www.gcmsland.de"
@@ -105,9 +105,9 @@
 		"subtitle": "Der Podcast f\u00fcr's Belanglose",
 		"url": "http:\/\/www.gcmsland.de"
 	}, {
-		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/rss.png",
-		"title": "#REALLIFE",
-		"subtitle": "Der Podcast f\u00fcr's Belanglose",
+		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/rss-geschichtendose.png",
+		"title": "Geschichten aus der Dose",
+		"subtitle": "Ein Erz\u00e4hlpodcast",
 		"url": "http:\/\/geschichtendose.de"
 	}, {
 		"cover": "http:\/\/raw.githubusercontent.com\/McCouman\/Ultraschall-data\/master\/ultraschall-references\/podcast-images\/uploads\/artwork.png",
